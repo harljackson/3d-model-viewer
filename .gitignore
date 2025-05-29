@@ -1,0 +1,7 @@
+.vs/
+*.vcxproj.user
+*.suo
+*.sdf
+*.opensdf
+*.ipch
+*.log
